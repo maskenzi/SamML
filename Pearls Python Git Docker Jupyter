@@ -1,0 +1,18 @@
+Python
+C:\Users\sam2032\AppData\Local\Programs\Python\Python36-32>python.exe
+C:\Users\sam2032\AppData\Local\Programs\Python\Python36-32>Scripts> This is where the scripts can be run(has pip.exe) example below:
+pip install numpy
+pip install tensorflow
+
+C:\Users\sam2032\AppData\Local\Programs\Python\Python36-32\Lib> This is where the existing libraries are
+If running python.exe, all you need to do is import xml, import ast... etc
+
+
+
+Jupyter
+
+
+Git
+
+
+Docker
